@@ -1,0 +1,11 @@
+C:\Users\turan.pepeoglu\source\repos\ShiftCreator\ShiftCreator.Core\bin\Debug\net7.0\ShiftCreator.Core.deps.json
+C:\Users\turan.pepeoglu\source\repos\ShiftCreator\ShiftCreator.Core\bin\Debug\net7.0\ShiftCreator.Core.dll
+C:\Users\turan.pepeoglu\source\repos\ShiftCreator\ShiftCreator.Core\bin\Debug\net7.0\ShiftCreator.Core.pdb
+C:\Users\turan.pepeoglu\source\repos\ShiftCreator\ShiftCreator.Core\obj\Debug\net7.0\ShiftCreator.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turan.pepeoglu\source\repos\ShiftCreator\ShiftCreator.Core\obj\Debug\net7.0\ShiftCreator.Core.AssemblyInfoInputs.cache
+C:\Users\turan.pepeoglu\source\repos\ShiftCreator\ShiftCreator.Core\obj\Debug\net7.0\ShiftCreator.Core.AssemblyInfo.cs
+C:\Users\turan.pepeoglu\source\repos\ShiftCreator\ShiftCreator.Core\obj\Debug\net7.0\ShiftCreator.Core.csproj.CoreCompileInputs.cache
+C:\Users\turan.pepeoglu\source\repos\ShiftCreator\ShiftCreator.Core\obj\Debug\net7.0\ShiftCreator.Core.dll
+C:\Users\turan.pepeoglu\source\repos\ShiftCreator\ShiftCreator.Core\obj\Debug\net7.0\refint\ShiftCreator.Core.dll
+C:\Users\turan.pepeoglu\source\repos\ShiftCreator\ShiftCreator.Core\obj\Debug\net7.0\ShiftCreator.Core.pdb
+C:\Users\turan.pepeoglu\source\repos\ShiftCreator\ShiftCreator.Core\obj\Debug\net7.0\ref\ShiftCreator.Core.dll

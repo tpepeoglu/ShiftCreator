@@ -1,0 +1,17 @@
+C:\Users\turan.pepeoglu\source\repos\ShiftCreator\ShiftCreator.Infrastructure\bin\Debug\net7.0\ShiftCreator.Infrastructure.deps.json
+C:\Users\turan.pepeoglu\source\repos\ShiftCreator\ShiftCreator.Infrastructure\bin\Debug\net7.0\ShiftCreator.Infrastructure.runtimeconfig.json
+C:\Users\turan.pepeoglu\source\repos\ShiftCreator\ShiftCreator.Infrastructure\bin\Debug\net7.0\ShiftCreator.Infrastructure.dll
+C:\Users\turan.pepeoglu\source\repos\ShiftCreator\ShiftCreator.Infrastructure\bin\Debug\net7.0\ShiftCreator.Infrastructure.pdb
+C:\Users\turan.pepeoglu\source\repos\ShiftCreator\ShiftCreator.Infrastructure\bin\Debug\net7.0\ShiftCreator.Core.dll
+C:\Users\turan.pepeoglu\source\repos\ShiftCreator\ShiftCreator.Infrastructure\bin\Debug\net7.0\ShiftCreator.Core.pdb
+C:\Users\turan.pepeoglu\source\repos\ShiftCreator\ShiftCreator.Infrastructure\obj\Debug\net7.0\ShiftCreator.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\turan.pepeoglu\source\repos\ShiftCreator\ShiftCreator.Infrastructure\obj\Debug\net7.0\ShiftCreator.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turan.pepeoglu\source\repos\ShiftCreator\ShiftCreator.Infrastructure\obj\Debug\net7.0\ShiftCreator.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\turan.pepeoglu\source\repos\ShiftCreator\ShiftCreator.Infrastructure\obj\Debug\net7.0\ShiftCreator.Infrastructure.AssemblyInfo.cs
+C:\Users\turan.pepeoglu\source\repos\ShiftCreator\ShiftCreator.Infrastructure\obj\Debug\net7.0\ShiftCreator.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\turan.pepeoglu\source\repos\ShiftCreator\ShiftCreator.Infrastructure\obj\Debug\net7.0\ShiftCreator.Infrastructure.csproj.CopyComplete
+C:\Users\turan.pepeoglu\source\repos\ShiftCreator\ShiftCreator.Infrastructure\obj\Debug\net7.0\ShiftCreator.Infrastructure.dll
+C:\Users\turan.pepeoglu\source\repos\ShiftCreator\ShiftCreator.Infrastructure\obj\Debug\net7.0\refint\ShiftCreator.Infrastructure.dll
+C:\Users\turan.pepeoglu\source\repos\ShiftCreator\ShiftCreator.Infrastructure\obj\Debug\net7.0\ShiftCreator.Infrastructure.pdb
+C:\Users\turan.pepeoglu\source\repos\ShiftCreator\ShiftCreator.Infrastructure\obj\Debug\net7.0\ShiftCreator.Infrastructure.genruntimeconfig.cache
+C:\Users\turan.pepeoglu\source\repos\ShiftCreator\ShiftCreator.Infrastructure\obj\Debug\net7.0\ref\ShiftCreator.Infrastructure.dll

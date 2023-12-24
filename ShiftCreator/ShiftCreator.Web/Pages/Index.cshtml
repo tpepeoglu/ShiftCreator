@@ -1,0 +1,32 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+<div id="grid"></div>
+<script>
+    $(document).ready(function () {
+        $("#grid").kendoGrid({
+            dataSource: {
+                transport: {
+                    read: {
+                        url: "/~/ShiftCreator.Core/ShiftService/GetAllShifts",
+                        dataType: "json"
+                    }
+                },
+                pageSize: 10 
+            },
+            pageable: true,
+            columns: [
+                { field: "shiftName", title: "Vardiya Adı" },
+                { field: "startTime", title: "Başlangıç Zamanı", format: "{0:yyyy-MM-dd HH:mm}" },
+                { field: "endTime", title: "Bitiş Zamanı", format: "{0:yyyy-MM-dd HH:mm}" }
+            ]
+        });
+    });
+</script>
